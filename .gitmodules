@@ -4,3 +4,6 @@
 [submodule "src/Fishworks.ECS"]
 	path = src/Fishworks.ECS
 	url = https://github.com/glindblom/Fishworks.ECS
+[submodule "src/yoga"]
+	path = src/yoga
+	url = https://github.com/facebook/yoga.git
