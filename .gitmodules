@@ -1,3 +1,6 @@
 [submodule "Fishworks.ECS"]
 	path = Fishworks.ECS
 	url = https://github.com/glindblom/Fishworks.ECS
+[submodule "src/Fishworks.ECS"]
+	path = src/Fishworks.ECS
+	url = https://github.com/glindblom/Fishworks.ECS
